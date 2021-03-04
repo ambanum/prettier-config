@@ -6,7 +6,7 @@ for projects of ambanum using **[Prettier](https://prettier.io/)**.
 ## Installation
 
 ```
-npm install --save-dev prettier-config-ambanum
+npm install --save-dev prettier prettier-config-ambanum
 ```
 
 _This is only a shareable configuration. It does not install Prettier, Standard,
@@ -21,7 +21,7 @@ Reference it in `package.json` using the `prettier` property:
   "name": "my-projects-name",
   "prettier": "prettier-config-ambanum",
   "devDependencies": {
-    "prettier-config-ambanum": "^1.0.0"
+    "prettier-config-ambanum": "^1.0.1"
   }
 }
 ```
