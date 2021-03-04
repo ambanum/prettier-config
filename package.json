@@ -2,7 +2,7 @@
   "name": "prettier-config-ambanum",
   "version": "1.0.0",
   "description": "A Prettier shareable config for projects of Ambanum",
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "repository": {
     "type": "git",
     "url": "git@github.com:ambanum/prettier-config.git"
